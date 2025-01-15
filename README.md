@@ -19,7 +19,7 @@ This project implements a **Performance Calculator** for a course, where a cours
 This system allows the user to:
 - Input scores for assignments, quizzes, lab exams, midterm exams, and final exams.
 - View the details of their assessments.
-- Calculate their final grade based on a weighted formula:
+- Calculate their final grade based on a weighted formula: (Which can be modified to suit user's need)
     - **Assignments** contribute 15% of the final grade.
     - **Quizzes** contribute 5% of the final grade.
     - **Midterm Exam** contributes 15% of the final grade.
