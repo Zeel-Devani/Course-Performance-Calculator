@@ -1,6 +1,6 @@
 # Course Performance Calculator
 
-This project implements a **Grade Calculator** for a course, where a course consists of assignments, quizzes, midterm exams, lab exams, and a final exam. The user can input their scores for each type of assessment, and the system will calculate the final grade based on these scores.
+This project implements a **Performance Calculator** for a course, where a course consists of assignments, quizzes, midterm exams, lab exams, and a final exam. The user can input their scores for each type of assessment, and the system will calculate the final grade based on these scores.
 
 ## Table of Contents
 1. [Overview](#overview)
